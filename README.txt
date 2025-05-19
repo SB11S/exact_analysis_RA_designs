@@ -1,4 +1,4 @@
-Code for "Exact statistical analysis for response-adaptive clinical trials: A general and computationally tractable approach"
+Code for "Exact statistical analysis for response-adaptive clinical trials: A general and computationally tractable approach" (https://doi.org/10.1016/j.csda.2025.108207)
 
 The Julia files are for calculating OCs, while the Python files are for generating tables and figures.
 
