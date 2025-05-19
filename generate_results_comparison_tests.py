@@ -11,7 +11,7 @@ result_path = "data/figures/" #change this to path where you want results
 input_path = "data/"#change this to input path
 tables_path = "data/"#change this to path for tables
 remove_border = True
-policy = "EA" # either EA or RDP
+policy = "RDP" # either EA or RDP
 starting_points = [0.01, 0.3,0.9]   
 
 include_BT = False # include Boschloo test in plots (not used in paper)
