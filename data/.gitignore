@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Unignore this .gitignore file
+!.gitignore
+
+# Unignore all subdirectories
+!*/

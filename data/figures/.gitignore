@@ -1,0 +1,5 @@
+# Ignore everything in this subfolder
+*
+
+# Unignore this .gitignore file
+!.gitignore
